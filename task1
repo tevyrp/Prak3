@@ -1,5 +1,4 @@
 public class Dean {
-    // использовал Dean, так как название файла не указано
     private String NameFaculty;
     private int Room;
     private int corps;
